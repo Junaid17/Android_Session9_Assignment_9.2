@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_Session9_Assignment_9.2</string>
+    <string name="computer">Computer</string>
+    <string name="gamepad" />
+    <string name="camera" />
+    <string name="video" />
+    <string name="email" />
+</resources>
